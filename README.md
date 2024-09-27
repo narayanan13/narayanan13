@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with a passion for building scalable applications.<br>Proficient in Java programming language. <br>Experienced in designing and implementing clean, maintainable code. <br>Always eager to learn new technologies and contribute to open-source projects.<br><br>I'm currently working on a student data management project.<br>
+Full-stack developer with a passion for building scalable applications.<br>Proficient in Java programming language. <br>Experienced in designing and implementing clean, maintainable code. <br>Always eager to learn new technologies and contribute to open-source projects.<br><br>I'm currently working on a shopify app development project.<br>
 
 
 ## 🌐 Socials:
